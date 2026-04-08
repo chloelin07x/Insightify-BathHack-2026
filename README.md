@@ -1,2 +1,2 @@
-# bathHack2026
+# Insightify
 Spotify song analyser and mood tracker
